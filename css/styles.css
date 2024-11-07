@@ -1,0 +1,21 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+.blog-post p a,
+ol li a,
+footer p a {
+  text-decoration: none;
+}
+.nav a:hover,
+.card-body a:hover,
+.blog-post p a:hover,
+ol li a:hover,
+footer p a:hover {
+  text-decoration: underline !important;
+}
+
